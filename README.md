@@ -21,29 +21,45 @@ November, 2019 - December 2019
 
 
 ## 🐾 Examples / 사용 예제
-- Overall
+- **Overall**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33334078/100721385-9b005000-3402-11eb-823c-74ceb0afdce4.png" style=width:"70%" height:"70%"/>
+  <img src="https://user-images.githubusercontent.com/33334078/100721385-9b005000-3402-11eb-823c-74ceb0afdce4.png" style="width:70%; height:70%"/>
 </p>
 
 
 1. **Leeds city council**  
-![Screenshot 2020-12-01 at 6 15 29 pm](https://user-images.githubusercontent.com/33334078/100721475-b79c8800-3402-11eb-95c0-11fd7fe02863.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100721475-b79c8800-3402-11eb-95c0-11fd7fe02863.png"/>
+</p>
 
 2. **Bacon statue**   
-![Screenshot 2020-12-01 at 6 15 35 pm](https://user-images.githubusercontent.com/33334078/100721511-c2efb380-3402-11eb-964a-04474cff2438.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100721511-c2efb380-3402-11eb-964a-04474cff2438.png"/>
+</p>
 
 3. **Christmas trees**   
-![Screenshot 2020-12-01 at 6 15 48 pm](https://user-images.githubusercontent.com/33334078/100721544-cdaa4880-3402-11eb-8ddf-b864876d6f7a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100721544-cdaa4880-3402-11eb-8ddf-b864876d6f7a.png"/>
+</p>
 
 4. **Carousel**  
-![Screenshot 2020-12-01 at 6 15 41 pm](https://user-images.githubusercontent.com/33334078/100721570-d4d15680-3402-11eb-84ea-cab50f242635.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100721570-d4d15680-3402-11eb-84ea-cab50f242635.png"/>
+</p>
+
 
 5. **Moving horse**   
-![Screenshot 2020-12-01 at 6 15 53 pm](https://user-images.githubusercontent.com/33334078/100721592-dc90fb00-3402-11eb-862f-1c5bc0468d98.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100721592-dc90fb00-3402-11eb-862f-1c5bc0468d98.png"/>
+</p>
+
 
 - **Different view angles**
-![1](https://user-images.githubusercontent.com/33334078/100721786-22e65a00-3403-11eb-99b3-57dc018067d5.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33334078/100721786-22e65a00-3403-11eb-99b3-57dc018067d5.png" style="width:70%; height:70%"/>
+</p>
+
 
 
 
