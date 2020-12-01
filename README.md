@@ -21,9 +21,9 @@ November, 2019 - December 2019
 
 
 ## 🐾 Examples / 사용 예제
-- **Overall**
+- **Overall**  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33334078/100721385-9b005000-3402-11eb-823c-74ceb0afdce4.png" style="width:70%; height:70%"/>
+  <img src="https://user-images.githubusercontent.com/33334078/100721385-9b005000-3402-11eb-823c-74ceb0afdce4.png" width="50%"/>
 </p>
 
 
@@ -54,16 +54,10 @@ November, 2019 - December 2019
 </p>
 
 
-- **Different view angles**
-
+- **Different view angles**  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33334078/100721786-22e65a00-3403-11eb-99b3-57dc018067d5.png" style="width:70%; height:70%"/>
+  <img src="https://user-images.githubusercontent.com/33334078/100721786-22e65a00-3403-11eb-99b3-57dc018067d5.png" width="80%"/>
 </p>
-
-
-
-
-
 
 
 
