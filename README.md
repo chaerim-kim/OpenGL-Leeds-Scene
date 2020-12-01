@@ -23,7 +23,7 @@ November, 2019 - December 2019
 ## 🐾 Examples / 사용 예제
 - **Overall**  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33334078/100721385-9b005000-3402-11eb-823c-74ceb0afdce4.png" width="50%"/>
+  <img src="https://user-images.githubusercontent.com/33334078/100721385-9b005000-3402-11eb-823c-74ceb0afdce4.png" width="70%"/>
 </p>
 
 
